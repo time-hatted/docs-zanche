@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-6qa54y.kujang138gold.online/sitemap.xml
